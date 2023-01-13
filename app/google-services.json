@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824103274048",
+    "project_id": "fir-child-tracker",
+    "storage_bucket": "fir-child-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824103274048:android:7821c0b25f634cbf0dc1a5",
+        "android_client_info": {
+          "package_name": "com.company.childtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824103274048-g66iakfb9rtoiqem0o7rekpr90nfouns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.childtracker",
+            "certificate_hash": "7848a387964ca0199856d4ce4abc5d3fee1d1199"
+          }
+        },
+        {
+          "client_id": "824103274048-vn4oqcvlblj6u54lqlmhlmooaaa05mke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaC5hu2ZSRQtX2scSdKlrDtcdhYkOgWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824103274048-vn4oqcvlblj6u54lqlmhlmooaaa05mke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
