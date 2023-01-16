@@ -64,6 +64,12 @@ public class MainActivity extends AppCompatActivity {
                 logInUser();
             }
         });
+        binding.Forget.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this,ForgetPassword.class));
+            }
+        });
     }
 
     private Boolean validateEmail() {
@@ -141,4 +147,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 }
